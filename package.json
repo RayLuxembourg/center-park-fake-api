@@ -1,0 +1,18 @@
+{
+    "name": "park-api",
+    "version": "1.0.0",
+    "description": "simple park-api",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js",
+      "dev": "nodemon server.js"
+    },
+    "keywords": [
+      "park-api,rest api"
+    ],
+    "author": "Ray Luxembourg",
+    "license": "ISC",
+    "dependencies": {
+      "json-server": "^0.12.1"
+    }
+  }
